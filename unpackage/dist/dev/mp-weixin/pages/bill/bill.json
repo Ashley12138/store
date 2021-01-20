@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "账单",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "uni-list": "/components/uni-list/uni-list",
+    "uni-list-item": "/components/uni-list-item/uni-list-item",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}
